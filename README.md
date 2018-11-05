@@ -17,6 +17,8 @@ The code performs the tasks described in the [instructions](https://www.coursera
 4.  Appropriately labels the data set with descriptive variable names.
 5.  From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+There are many comments in the  ```run_analysis.R``` script to explain the different operations made on data.
+
 *Notice:* 
 *  Before to execute the 5 tasks described above, the ```run_analysis.R``` script downloads and unzip the input data
 *  The ```run_analysis.R``` script identifies the underlying operating system  in order to use the right directory separator ("\" for windows, "/" for other systems)
